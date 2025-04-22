@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    margin-left: 10%;
+}
+
+header {
+    margin-bottom: 30px;
+}
+
+#links-container {
+    padding-left: 20px;
+}
+
+#links-container li {
+    margin-bottom: 10px;
+}
+
+#links-container a {
+    color: #0366d6;
+    text-decoration: none;
+}
+
+#links-container a:hover {
+    text-decoration: underline;
+}
