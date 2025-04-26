@@ -66,6 +66,12 @@
     }, {
       "name": "weakauras-2",
       "url": "https://www.curseforge.com/wow/addons/weakauras-2/download"
+    }, {
+      "name": "Alter Ego",
+      "url": "https://www.curseforge.com/wow/addons/alterego/download"
+    }, {
+      "name": "Saved Instances",
+      "url": "https://www.curseforge.com/wow/addons/saved_instances/download"
     }
   ]
 }
